@@ -219,6 +219,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [MyJet24](https://myjet24.com) - Free dummy ticket generator, visa checker, and travel documentation tools for 195+ countries.
+
 
 ## License
 
